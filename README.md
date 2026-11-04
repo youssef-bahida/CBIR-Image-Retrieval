@@ -1,6 +1,16 @@
 
 # 🖼️ TP-2-IRIC — Content-Based Image Retrieval
 
+_____________________________________________________________________________________________________
+
+https://yb-cbir-image-retrieval.streamlit.app/
+
+
+_____________________________________________________________________________________________________
+
+_____________________________________________________________________________________________________
+
+
 A Content-Based Image Retrieval (CBIR) application developed with Python, OpenCV, GLCM and Streamlit.
 
 ## 🚀 Features
